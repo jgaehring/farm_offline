@@ -1,0 +1,5 @@
+name = Farm Offline
+description = Provides offline capabilities for farmOS using JavaScript.
+core = 7.x
+package = farmOS Contrib
+scripts[] = farm_offline.js
